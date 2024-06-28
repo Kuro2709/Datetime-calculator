@@ -1,6 +1,6 @@
 # Date & Time Calculator
 
-This is a project template for a simple calculator with three date/time-related features:
+This is a project for a simple calculator with three date/time-related features:
 
 - calculating the number of days between two dates
 Examples:
